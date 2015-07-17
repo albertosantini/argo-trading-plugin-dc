@@ -1,0 +1,36 @@
+{
+    "name": "argo-trading-plugin-dc",
+    "description": "argo-trading plugin",
+    "version": "1.0.0",
+    "main": "lib/main.js",
+    "bin": {
+        "argo-trading-plugin-dc": "./bin/argo-trading-plugin-dc"
+    },
+    "preferGlobal": true,
+    "repository": "git@github.com:albertosantini/argo-trading-plugin-dc.git",
+    "keywords": [
+        "argo plugin",
+        "trading",
+        "forex",
+        "fxtrade",
+        "oanda"
+    ],
+    "author": "Alberto Santini",
+    "license": "MIT",
+    "engines": {
+        "node": "~0.12.x"
+    },
+    "dependencies": {
+        "flic": "~1.1.2",
+        "request": "~2.58.0"
+    },
+    "scripts": {
+        "start": "node lib/main.js",
+        "test": "grunt"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.5",
+        "grunt-cli": "~0.1.13",
+        "grunt-eslint": "~16.0.0"
+    }
+}
