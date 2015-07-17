@@ -27,23 +27,12 @@ Don't forget to enable the plugin in `Plugins` tab of Argo.
 
 ## References
 
-- High Frequency Finance: Using Scaling Laws to Build Trading Models
-https://www.olseninvest.com/customer/pdf/c20.pdf
-
-- R&D Strategy Document
-http://arxiv.org/abs/1405.6027
-
-- A Directional-Change Event Approach for Studying Financial Time Series
-http://www.economics-ejournal.org/economics/journalarticles/2012-36
-
-- Patterns in high-frequency FX data: Discovery of 12 empirical scaling laws
-http://arxiv.org/abs/0809.1040v2
-
-- Patterns in FTSE 100 Index: Reexamine directional change scaling laws
-http://www.bracil.net/Guests/Yu.Zhang/Yu%20Zhang-Dissertation.pdf
-
-- The hidden treasure of high frequency dynamics: from intrinsic time to scaling laws
-https://fp7.portals.mbs.ac.uk/Portals/59/docs/OLSEN%20conferencemanchester091004.pdf
+- [High Frequency Finance: Using Scaling Laws to Build Trading Models](https://www.olseninvest.com/customer/pdf/c20.pdf)
+- [R&D Strategy Document](http://arxiv.org/abs/1405.6027)
+- [A Directional-Change Event Approach for Studying Financial Time Series](http://www.economics-ejournal.org/economics/journalarticles/2012-36)
+- [Patterns in high-frequency FX data: Discovery of 12 empirical scaling laws](http://arxiv.org/abs/0809.1040v2)
+- [Patterns in FTSE 100 Index: Reexamine directional change scaling laws](http://www.bracil.net/Guests/Yu.Zhang/Yu%20Zhang-Dissertation.pdf)
+- [The hidden treasure of high frequency dynamics: from intrinsic time to scaling laws](https://fp7.portals.mbs.ac.uk/Portals/59/docs/OLSEN%20conferencemanchester091004.pdf)
 
 ## Disclaimer
 
