@@ -7,8 +7,8 @@
 `argo-tradin-plugin-dc` is a plugin for [Argo][], the open source trading
 platform, connecting directly with [OANDA][] through the powerful [API][].
 
-For demo purpose only it implements a strategy based on Directional-Change (see
-References section below).
+For demo purpose only it implements a strategy (`lib/custom/ontick.js`) based on
+Directional-Change (see References section below).
 
 ## Getting Started
 
