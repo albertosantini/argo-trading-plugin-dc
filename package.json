@@ -18,7 +18,7 @@
     "author": "Alberto Santini",
     "license": "MIT",
     "engines": {
-        "node": "~0.12.x"
+        "node": ">=4"
     },
     "dependencies": {
         "flic": "~1.1.2",
@@ -26,13 +26,12 @@
     },
     "scripts": {
         "start": "node lib/main.js",
-        "test": "grunt"
+        "test": "npm run lint",
+        "lint": "eslint bin/argo-trading-plugin-dc lib/**/*.js"
+
     },
     "devDependencies": {
-        "eslint": "~1.10.1",
-        "eslint-config-eslint": "~1.0.1",
-        "grunt": "~0.4.5",
-        "grunt-cli": "~0.1.13",
-        "grunt-eslint": "~17.3.1"
+        "eslint": "~2.0.0-beta.2",
+        "eslint-config-eslint": "~2.0.0"
     }
 }
