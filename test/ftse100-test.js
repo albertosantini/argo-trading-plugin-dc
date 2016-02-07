@@ -18,7 +18,7 @@ var expected = [
 ];
 
 test("ftse100", function (t) {
-    var thresold = 0.03;
+    var threshold = 0.03;
 
     var trendArr = [],
         hiArr = [],
@@ -46,8 +46,8 @@ test("ftse100", function (t) {
             hi = item;
             lo = item;
             ext = item;
-            up = (((item - lo) / lo) >= thresold) ? 1 : 0;
-            down = (((hi - item) / hi) >= thresold) ? 1 : 0;
+            up = (((item - lo) / lo) >= threshold) ? 1 : 0;
+            down = (((hi - item) / hi) >= threshold) ? 1 : 0;
         } else {
             if (upArr.slice(-1)[0] === 1) {
                 trend = 1;
@@ -74,13 +74,13 @@ test("ftse100", function (t) {
             if (trend === 1) {
                 up = 0;
             } else {
-                up = (((item - lo) / lo) >= thresold) ? 1 : 0;
+                up = (((item - lo) / lo) >= threshold) ? 1 : 0;
             }
 
             if (trend === -1) {
                 down = 0;
             } else {
-                down = (((hi - item) / hi) >= thresold) ? 1 : 0;
+                down = (((hi - item) / hi) >= threshold) ? 1 : 0;
             }
 
 
@@ -95,7 +95,7 @@ test("ftse100", function (t) {
             }
         }
 
-        change = Math.trunc((((item - ext) / ext) / thresold));
+        change = Math.trunc((((item - ext) / ext) / threshold));
 
         if (change > 0) {
             osv = change - 1;
