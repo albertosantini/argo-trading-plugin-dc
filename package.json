@@ -26,12 +26,13 @@
     },
     "scripts": {
         "start": "node lib/main.js",
-        "test": "npm run lint",
-        "lint": "eslint bin/argo-trading-plugin-dc lib/**/*.js"
-
+        "test": "npm run lint && npm run tape",
+        "lint": "eslint bin/argo-trading-plugin-dc lib/**/*.js",
+        "tape": "tape test/**/*-test.js"
     },
     "devDependencies": {
         "eslint": "~2.0.0-rc.0",
-        "eslint-config-eslint": "~3.0.0"
+        "eslint-config-eslint": "~3.0.0",
+        "tape": "~4.4.0"
     }
 }
