@@ -32,7 +32,7 @@ test("ftse100", function (t) {
     t.plan(99);
 
     series.forEach(function (price) {
-        var res = strategy.directionalChange(price, threshold);
+        var res = strategy.directionalChange("ftse100", price, threshold);
 
         trend.push(res.trend);
         hi.push(res.hi);
