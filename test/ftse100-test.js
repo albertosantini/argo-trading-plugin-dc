@@ -2,7 +2,7 @@
 
 var test = require("tape");
 var series = require("./ftse100-series").ftse100;
-var strategy = require("../lib/strategy/dc");
+var strategy = require("../lib/signals/dc");
 
 var expected = [
     {index: 60, price: 5586.61, trend: -1, hi: 5825.01, lo: 5586.61, up: 0, down: 0, ext: 5825.01, change: -1, osv: 0},
