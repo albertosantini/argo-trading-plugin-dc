@@ -1,3 +1,9 @@
+<a name="2.1.0"></a>
+# [2.1.0](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v2.0.0...v2.1.0) (2016-02-15)
+
+
+
+
 2.0.0 / 2016-02-09
 ==================
 
