@@ -32,8 +32,8 @@
         "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
     },
     "devDependencies": {
-        "conventional-changelog-cli": "~1.1.1",
-        "eslint": "^2.8.0",
+        "conventional-changelog-cli": "~1.2.0",
+        "eslint": "^2.9.0",
         "eslint-config-eslint": "~3.0.0",
         "tape": "~4.5.1"
     }
