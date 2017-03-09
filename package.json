@@ -26,6 +26,7 @@
     },
     "scripts": {
         "start": "node lib/main.js",
+        "debug": "node --inspect lib/main.js",
         "test": "npm run lint && npm run tape",
         "lint": "eslint bin/argo-trading-plugin-dc lib/**/*.js test/**/*.js",
         "tape": "tape test/**/*-test.js",
