@@ -1,7 +1,6 @@
 # ARGO-TRADING PLUGIN DC
 
 [![NPM version](https://badge.fury.io/js/argo-trading-plugin-dc.png)](http://badge.fury.io/js/argo-trading-plugin-dc)
-[![NGN Dependencies](https://david-dm.org/albertosantini/argo-trading-plugin-dc.png)](https://david-dm.org/albertosantini/argo-trading-plugin-dc)
 [![Build Status](https://travis-ci.org/albertosantini/argo-trading-plugin-dc.png)](https://travis-ci.org/albertosantini/argo-trading-plugin-dc)
 
 `argo-tradin-plugin-dc` is a plugin for [Argo][], the open source trading
