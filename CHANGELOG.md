@@ -1,3 +1,14 @@
+<a name="3.0.1"></a>
+## [3.0.1](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v3.0.0...v3.0.1) (2017-03-10)
+
+
+### Bug Fixes
+
+* **bars:** fix middle price([73c9b47](https://github.com/albertosantini/argo-trading-plugin-dc/commit/73c9b47))
+* **ontick:** fix fillOrder call([f5527cf](https://github.com/albertosantini/argo-trading-plugin-dc/commit/f5527cf))
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v2.1.0...v3.0.0) (2017-03-09)
 
