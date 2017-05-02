@@ -1,3 +1,13 @@
+<a name="3.0.3"></a>
+## [3.0.3](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v3.0.2...v3.0.3) (2017-05-02)
+
+
+### Bug Fixes
+
+* **bars:** remove alignmentTimezone ([e2f0605](https://github.com/albertosantini/argo-trading-plugin-dc/commit/e2f0605))
+
+
+
 <a name="3.0.2"></a>
 ## [3.0.2](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v3.0.1...v3.0.2) (2017-03-10)
 
