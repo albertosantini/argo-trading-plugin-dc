@@ -1,7 +1,7 @@
 # ARGO-TRADING PLUGIN DC
 
-[![NPM version](https://badge.fury.io/js/argo-trading-plugin-dc.png)](http://badge.fury.io/js/argo-trading-plugin-dc)
-[![Build Status](https://travis-ci.org/albertosantini/argo-trading-plugin-dc.png)](https://travis-ci.org/albertosantini/argo-trading-plugin-dc)
+[![NPM version](https://badge.fury.io/js/argo-trading-plugin-dc.svg)](http://badge.fury.io/js/argo-trading-plugin-dc)
+[![Build Status](https://travis-ci.org/albertosantini/argo-trading-plugin-dc.svg)](https://travis-ci.org/albertosantini/argo-trading-plugin-dc)
 
 `argo-tradin-plugin-dc` is a plugin for [Argo][], the open source trading
 platform, connecting directly with [OANDA][] through the powerful [API][].
