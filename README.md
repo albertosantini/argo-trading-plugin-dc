@@ -34,6 +34,7 @@ Don't forget to enable the plugin in `Plugins` tab of Argo.
 - [Patterns in FTSE 100 Index: Reexamine directional change scaling laws](http://www.bracil.net/Guests/Yu.Zhang/Yu%20Zhang-Dissertation.pdf)
 - [Directional Changes](http://www.bracil.net/finance/DirectionalChanges/)
 - [Risk Management Tools based on Scaling Laws and Directional-Change Intrinsic Time](https://github.com/VladUZH/VlPetrov)
+- [The Alpha Engine: Designing an Automated Trading Algorithm](https://github.com/AntonVonGolub/Code)
 
 ## Disclaimer
 
