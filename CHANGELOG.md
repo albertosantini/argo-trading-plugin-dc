@@ -1,3 +1,22 @@
+# [4.0.0](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v3.0.4...v4.0.0) (2019-09-10)
+
+
+### Bug Fixes
+
+* **indicators:** back port from seed ([f157288](https://github.com/albertosantini/argo-trading-plugin-dc/commit/f157288))
+
+
+### Features
+
+* **AlphaEngine:** fill market order ([1328a06](https://github.com/albertosantini/argo-trading-plugin-dc/commit/1328a06))
+* **AlphaEngine:** fix a few porting errors ([ff7e2d8](https://github.com/albertosantini/argo-trading-plugin-dc/commit/ff7e2d8))
+* **AlphaEngine:** fix disbalancedOrders ([6fa0752](https://github.com/albertosantini/argo-trading-plugin-dc/commit/6fa0752))
+* **AlphaEngine:** fix import classes ([61d5b91](https://github.com/albertosantini/argo-trading-plugin-dc/commit/61d5b91))
+* **AlphaEngine:** use intraday deltas ([67e3793](https://github.com/albertosantini/argo-trading-plugin-dc/commit/67e3793))
+* **AlphaEngine:** WIP implementation ([c272e14](https://github.com/albertosantini/argo-trading-plugin-dc/commit/c272e14))
+
+
+
 <a name="3.0.4"></a>
 ## [3.0.4](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v3.0.3...v3.0.4) (2017-05-06)
 
