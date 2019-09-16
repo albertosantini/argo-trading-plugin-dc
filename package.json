@@ -1,7 +1,7 @@
 {
     "name": "argo-trading-plugin-dc",
     "description": "argo-trading plugin",
-    "version": "4.0.0",
+    "version": "4.0.1",
     "main": "lib/main.js",
     "bin": {
         "argo-trading-plugin-dc": "./bin/argo-trading-plugin-dc"
