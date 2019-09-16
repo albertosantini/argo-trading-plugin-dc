@@ -1,3 +1,13 @@
+## [4.0.1](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v4.0.0...v4.0.1) (2019-09-16)
+
+
+### Bug Fixes
+
+* **limit-order:** fix units ([50ac0bd](https://github.com/albertosantini/argo-trading-plugin-dc/commit/50ac0bd))
+* **tools:** fix request ([d609f4d](https://github.com/albertosantini/argo-trading-plugin-dc/commit/d609f4d))
+
+
+
 # [4.0.0](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v3.0.4...v4.0.0) (2019-09-10)
 
 
