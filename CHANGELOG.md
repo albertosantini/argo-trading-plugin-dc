@@ -1,3 +1,13 @@
+# [4.1.0](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v4.0.1...v4.1.0) (2019-10-07)
+
+
+### Features
+
+* **ontick:** add multi currencies ([6a618c0](https://github.com/albertosantini/argo-trading-plugin-dc/commit/6a618c0))
+* **ontick:** execute strategy on a few currencies ([97cac09](https://github.com/albertosantini/argo-trading-plugin-dc/commit/97cac09))
+
+
+
 ## [4.0.1](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v4.0.0...v4.0.1) (2019-09-16)
 
 
