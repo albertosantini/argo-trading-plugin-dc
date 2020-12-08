@@ -30,7 +30,12 @@
         "test": "npm run lint",
         "lint": "eslint bin/argo-trading-plugin-dc lib/**/*.js",
         "tape": "tape test/**/*-test.js",
-        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
+        "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
+        "pm2-start-dc": "pm2 start bin/argo-trading-plugin-dc --name dc --time",
+        "pm2-stop-dc": "pm2 stop dc && pm2 delete dc",
+        "pm2-restart-dc": "npm run pm2-stop-dc && npm run pm2-start-dc",
+        "deploy-setup-dc": "pm2 deploy dc setup",
+        "deploy-update-dc": "pm2 deploy dc update --force"
     },
     "devDependencies": {
         "conventional-changelog-cli": "^2.1.1",
