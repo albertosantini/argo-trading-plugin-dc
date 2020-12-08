@@ -1,3 +1,12 @@
+# [4.2.0](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v4.1.0...v4.2.0) (2020-12-08)
+
+
+### Features
+
+* **pm2:** add pm2 management ([0789436](https://github.com/albertosantini/argo-trading-plugin-dc/commit/07894363a486c913d2f1909fbff1b17630ffdb71))
+
+
+
 # [4.1.0](https://github.com/albertosantini/argo-trading-plugin-dc/compare/v4.0.1...v4.1.0) (2019-10-07)
 
 
