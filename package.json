@@ -22,7 +22,7 @@
     },
     "dependencies": {
         "flic": "^1.3.7",
-        "https-proxy-agent": "^3.0.1"
+        "https-proxy-agent": "^5.0.0"
     },
     "scripts": {
         "start": "node lib/main.js",
@@ -33,8 +33,8 @@
         "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
     },
     "devDependencies": {
-        "conventional-changelog-cli": "^2.0.25",
-        "eslint": "^6.6.0",
-        "tape": "^4.11.0"
+        "conventional-changelog-cli": "^2.1.1",
+        "eslint": "^6.8.0",
+        "tape": "^4.13.3"
     }
 }
